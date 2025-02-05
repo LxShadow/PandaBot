@@ -5,33 +5,33 @@
     },
     "plugins": {
         "_antiarab": {
-            "texto1": "_*< ANTI-ÁRABES />*_\n\n*[ ℹ️ ] En este grupo no se permiten números que comiencen con +212. Por lo tanto, serás eliminado del grupo.*",
-            "texto2": "_*< ANTI-ÁRABES />*_\n\n*[ ℹ️ ] En este grupo no se permiten números que comiencen con +265. Por lo tanto, serás eliminado del grupo.*",
-            "texto3": "_*< ANTI-ÁRABES />*_\n\n*[ ℹ️ ] En este grupo no se permiten números que comiencen con +92. Por lo tanto, serás eliminado del grupo.*"
+            "texto1": "_*🐼🎋 ANTI-ÁRABES 🎋🐼*_\n\n*[ ℹ️ ] En este grupo no se permiten números que comiencen con +212. Por lo tanto, serás eliminado del grupo.*",
+            "texto2": "_*🐼🎋 ANTI-ÁRABES 🎋🐼*_\n\n*[ ℹ️ ] En este grupo no se permiten números que comiencen con +265. Por lo tanto, serás eliminado del grupo.*",
+            "texto3": "_*🐼🎋 ANTI-ÁRABES 🎋🐼*_\n\n*[ ℹ️ ] En este grupo no se permiten números que comiencen con +92. Por lo tanto, serás eliminado del grupo.*"
         },
         "_antilink": {
-            "texto1": "*< ANTI-LINK />*_\n\n*[ ℹ️ ] El antilink está habilitado, pero el participante que envió el enlace es un administrador.*",
-            "texto2": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] El participante @user envió un enlace de un grupo de WhatsApp, por lo que será eliminado.*",
-            "texto3": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] Para que el anti-link funcione correctamente es necesario que el bot sea administrador del grupo.*",
-            "texto4": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está deshabilitada.*"
+            "texto1": "*🐼🎋 ANTI-LINK 🎋🐼*_\n\n*[ ℹ️ ] El antilink está habilitado, pero el participante que envió el enlace es un administrador.*",
+            "texto2": "_*🐼🎋 ANTI-LINK 🎋🐼*_\n\n*[ ℹ️ ] El participante @user envió un enlace de un grupo de WhatsApp, por lo que será eliminado.*",
+            "texto3": "_*🐼🎋 ANTI-LINK 🎋🐼*_\n\n*[ ℹ️ ] Para que el anti-link funcione correctamente es necesario que el bot sea administrador del grupo.*",
+            "texto4": "_*🐼🎋 ANTI-LINK 🎋🐼*_\n\n*[ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está deshabilitada.*"
         },
         "_antilink2": {
-            "texto1": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] El participante @user envió un enlace de un grupo de WhatsApp, por lo que será eliminado.*",
-            "texto2": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Para que el anti-link funcione correctamente es necesario que el bot sea administrador del grupo.*",
-            "texto3": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está deshabilitada.*"
+            "texto1": "_*🐼🎋 ANTI-LINK 2 🎋🐼*_\n\n*[ ℹ️ ] El participante @user envió un enlace de un grupo de WhatsApp, por lo que será eliminado.*",
+            "texto2": "_*🐼🎋 ANTI-LINK 2 🎋🐼*_\n\n*[ ℹ️ ] Para que el anti-link funcione correctamente es necesario que el bot sea administrador del grupo.*",
+            "texto3": "_*🐼🎋 ANTI-LINK 2 🎋🐼*_\n\n*[ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está deshabilitada.*"
         },
         "_antiprivado": {
-            "texto1": "_*< ANTI-PRIVADO />*_\n\n*[ ℹ️ ] La función antiprivado está habilitada, por lo tanto serás bloqueado.*"
+            "texto1": "_*🐼🎋 ANTI-PRIVADO 🎋🐼*_\n\n*[ ℹ️ ] La función antiprivado está habilitada, por lo tanto serás bloqueado.*"
         },
         "_antitoxic": {
-            "texto1": "_*< ANTI-TOXIC />*_\n\n*[ ℹ️ ] ",
+            "texto1": "_*🐼🎋 ANTI-TOXIC 🎋🐼*_\n\n*[ ℹ️ ] ",
             "texto1_1": " enviar la palabra ",
             "texto1_2": " está prohibido en este grupo.\n\n▢ *Advertencia:* ",
-            "texto2": "_*< ANTI-TOXIC />*_\n\n*[ ℹ️ ] El participante ",
+            "texto2": "_*🐼🎋 ANTI-TOXIC 🎋🐼*_\n\n*[ ℹ️ ] El participante ",
             "texto2_1": "superó las 5 advertencias, por lo que será expulsado del grupo.* "
         },
         "_antitrabas": {
-            "texto1": "_*< ANTI-TRABAS />*_\n\n*[ ℹ️ ] El administrador ",
+            "texto1": "_*🐼🎋 ANTI-TRABAS 🎋🐼*_\n\n*[ ℹ️ ] El administrador ",
             "texto1_1": " envio un mensaje que contiene muchos caracteres.* ",
             "texto2": "*[ ! ] Se detecto un mensaje que contiene muchos caracteres [ ! ]*\n",
             "texto2_1": "No soy administrador, no puedo hacer nada :/",
@@ -45,7 +45,7 @@
             "texto1": "*- En este grupo, no se permite ocultar nada.*"
         },
         "_autosticker": {
-            "texto1": "_*< FUNCIONES - AUTOSTICKER />*_\n\n*[ ℹ️ ] La duración del vídeo no puede superar los 7 segundos.*\n\n*[ 💡 ] Para desactivar la función de* _autosticker_ *envie el siguiente comando:* _/𝚍𝚒𝚜𝚊𝚋𝚕𝚎 𝚊𝚞𝚝𝚘𝚜𝚝𝚒𝚌𝚔𝚎𝚛_"
+            "texto1": "_*🐼🎋 FUNCIONES - AUTOSTICKER 🎋🐼*_\n\n*[ ℹ️ ] La duración del vídeo no puede superar los 7 segundos.*\n\n*[ 💡 ] Para desactivar la función de* _autosticker_ *envie el siguiente comando:* _/𝚍𝚒𝚜𝚊𝚋𝚕𝚎 𝚊𝚞𝚝𝚘𝚜𝚝𝚒𝚌𝚔𝚎𝚛_"
         },
         "_detectevents": {
             "texto1": "*Recientemente se ha promovido un miembro a administrador.*\n\n",
@@ -273,11 +273,11 @@
             "texto3": "[ ✔ ] 𝙴𝙻 𝚃𝙴𝚇𝚃𝙾/𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙰𝚂𝙸𝙶𝙽𝙰𝙳𝙾 𝙰𝙻 𝚂𝚃𝙸𝙲𝙺𝙴𝚁/𝙸𝙼𝙰𝙶𝙴𝙽 𝙵𝚄𝙴 𝙴𝙻𝙸𝙼𝙸𝙽𝙰𝙳𝙾 𝙳𝙴 𝙻𝙰 𝙱𝙰𝚂𝙴 𝙳𝙴 𝙳𝙰𝚃𝙾𝚂 𝙲𝙾𝚁𝚁𝙴𝙲𝚃𝙰𝙼𝙴𝙽𝚃𝙴"
         },
         "cmd_list": {
-            "texto1": "< 𝙻𝙸𝚂𝚃𝙰 𝙳𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 / 𝚃𝙴𝚇𝚃𝙾𝚂 𝙰𝚂𝙸𝙶𝙰𝙽𝙳𝙾𝚂 />"
+            "texto1": "🐼🎋 𝙻𝙸𝚂𝚃𝙰 𝙳𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 / 𝚃𝙴𝚇𝚃𝙾𝚂 𝙰𝚂𝙸𝙶𝙰𝙽𝙳𝙾𝚂 🎋🐼"
         },
         "config_funciones": {
             "texto1": [
-                "< FUNCIONES DEL BOT />",
+                "🐼🎋 FUNCIONES DEL BOT 🎋🐼",
                 "▢ *Opción:* ✨",
                 "▢ *Comando:*",
                 "▢ *Descripción:* Activa o desactiva la bienvenida en el grupo."
@@ -430,7 +430,7 @@
                 "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto28": [
-                "< FUNCIONES DEL BOT />",
+                "🐼🎋 FUNCIONES DEL BOT 🎋🐼",
                 "[ ℹ️ ] La opción",
                 "exitosamente para este"
             ]
@@ -495,75 +495,75 @@
         },
         "descargas_facebook": {
             "texto1": [
-                "< DESCARGAS - FACEBOOK />",
+                "🐼🎋 DESCARGAS - FACEBOOK 🎋🐼",
                 "[ ℹ️ ] Ingrese un enlace de Facebook.",
                 "[ 💡 ] Ejemplo:"
             ],
             "texto2": [
-                "< DESCARGAS - FACEBOOK />",
+                "🐼🎋 DESCARGAS - FACEBOOK 🎋🐼",
                 "[ ℹ️ ] Ingrese un enlace de Facebook.",
                 "[ 💡 ] Ejemplo:"
             ],
-            "texto3": "< DESCARGAS - FACEBOOK />*_\n\n*[ ℹ️ ] Se está enviando el video. espere...",
-            "texto4": "< DESCARGAS - FACEBOOK />",
-            "texto5": "< DESCARGAS - FACEBOOK />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde."
+            "texto3": "🐼🎋 DESCARGAS - FACEBOOK 🎋🐼*_\n\n*[ ℹ️ ] Se está enviando el video. espere...",
+            "texto4": "🐼🎋 DESCARGAS - FACEBOOK 🎋🐼",
+            "texto5": "🐼🎋 DESCARGAS - FACEBOOK 🎋🐼*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde."
         },
         "descargas_gdrive": {
-            "texto1": "_*< DESCARGAS - GDRIVE />*_\n\n*[ ℹ️ ] Ingrese un enlace de Google Drive.*\n\n*[ 💡 ] Ejemplo:* ",
-            "texto2": "_*< DESCARGAS - GDRIVE />*_\n\n*[ ℹ️ ] Se está enviando el archivo. espere...*\n\n*[ ℹ️ ] Si no se envía, podría ser porque supera el límite de tamaño.*",
-            "texto3": "_*< DESCARGAS - GDRIVE />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
+            "texto1": "_*🐼🎋 DESCARGAS - GDRIVE 🎋🐼*_\n\n*[ ℹ️ ] Ingrese un enlace de Google Drive.*\n\n*[ 💡 ] Ejemplo:* ",
+            "texto2": "_*🐼🎋 DESCARGAS - GDRIVE 🎋🐼*_\n\n*[ ℹ️ ] Se está enviando el archivo. espere...*\n\n*[ ℹ️ ] Si no se envía, podría ser porque supera el límite de tamaño.*",
+            "texto3": "_*🐼🎋 DESCARGAS - GDRIVE 🎋🐼*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
         },
         "descargas_gitclone": {
-            "texto1": "_*< DESCARGAS - GITCLONE />*_\n\n*[ ℹ️ ] Ingrese un enlace de GitHub.*\n\n*[ 💡 ] Ejemplo:*",
-            "texto2": "_*< DESCARGAS - GITCLONE />*_\n\n*[ ℹ️ ] El enlace que proporcionó es incorrecto.*",
-            "texto3": "_*< DESCARGAS - GITCLONE />*_\n\n*[ ℹ️ ] Se está enviando el archivo. espere...*\n\n*[ ℹ️ ] Si no se envía, podría ser porque supera el límite de tamaño.*"
+            "texto1": "_*🐼🎋 DESCARGAS - GITCLONE 🎋🐼*_\n\n*[ ℹ️ ] Ingrese un enlace de GitHub.*\n\n*[ 💡 ] Ejemplo:*",
+            "texto2": "_*🐼🎋 DESCARGAS - GITCLONE 🎋🐼*_\n\n*[ ℹ️ ] El enlace que proporcionó es incorrecto.*",
+            "texto3": "_*🐼🎋 DESCARGAS - GITCLONE 🎋🐼*_\n\n*[ ℹ️ ] Se está enviando el archivo. espere...*\n\n*[ ℹ️ ] Si no se envía, podría ser porque supera el límite de tamaño.*"
         },
         "descargas_instagram": {
-            "texto1": "_*< DESCARGAS - INSTAGRAM />*_\n\n*[ ℹ️ ] Ingrese un enlace de Instagram.*\n\n*[ 💡 ] Ejemplo:*",
-            "texto2": "_*< DESCARGAS - INSTAGRAM />*_\n\n▢ *URL:*",
-            "texto3": "_*< DESCARGAS - INSTAGRAM />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
+            "texto1": "_*🐼🎋 DESCARGAS - INSTAGRAM 🎋🐼*_\n\n*[ ℹ️ ] Ingrese un enlace de Instagram.*\n\n*[ 💡 ] Ejemplo:*",
+            "texto2": "_*🐼🎋 DESCARGAS - INSTAGRAM 🎋🐼*_\n\n▢ *URL:*",
+            "texto3": "_*🐼🎋 DESCARGAS - INSTAGRAM 🎋🐼*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
         },
         "descargas_mediafire": {
             "texto1": [
-                "_*< DESCARGAS - MEDIAFIRE />*_",
+                "_*🐼🎋 DESCARGAS - MEDIAFIRE 🎋🐼*_",
                 "▢ *Nombre:* ",
                 "▢ *Tamaño:* ",
                 "▢ *Extensión:*",
                 "*[ ℹ️ ] Se está enviando el archivo. espere...*"
             ],
             "texto2": [
-                "*< DESCARGAS - MEDIAFIRE />*",
+                "*🐼🎋 DESCARGAS - MEDIAFIRE 🎋🐼*",
                 "▢ *Nombre:*",
                 "▢ *Tamaño:*",
                 "▢ *Extensión:*",
                 "*[ ℹ️ ] Se está enviando el archivo. espere...*"
             ],
-            "texto3": "_*< DESCARGAS - MEDIAFIRE />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
-            "texto4": "_*< DESCARGAS - MEDIAFIRE />*_\n\n*[ ℹ️ ] Ingrese un enlace de MediaFire.*\n\n*[ 💡 ] Ejemplo:*"
+            "texto3": "_*🐼🎋 DESCARGAS - MEDIAFIRE 🎋🐼*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
+            "texto4": "_*🐼🎋 DESCARGAS - MEDIAFIRE 🎋🐼*_\n\n*[ ℹ️ ] Ingrese un enlace de MediaFire.*\n\n*[ 💡 ] Ejemplo:*"
         },
         "descargas_play_v2": {
             "texto1": [
-                "_*< DESCARGAS - PLAY v2 />*_\n\n*[ ℹ️ ] Hace falta el título del video de YouTube.*\n\n*[ 💡 ] Ejemplo:*",
+                "_*🐼🎋 DESCARGAS - PLAY v2 🎋🐼*_\n\n*[ ℹ️ ] Hace falta el título del video de YouTube.*\n\n*[ 💡 ] Ejemplo:*",
                 "Good Feeling - Flo Rida_\n\n*[ 💡 ] Ejemplo 2:*"
             ],
-            "texto2": "_*< DESCARGAS - PLAY V2 />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
-            "texto3": "_*< DESCARGAS - PLAY V2 />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
+            "texto2": "_*🐼🎋 DESCARGAS - PLAY V2 🎋🐼*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
+            "texto3": "_*🐼🎋 DESCARGAS - PLAY V2 🎋🐼*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
             "texto4": [
-                "_*< DESCARGAS - PLAY V2 />*_\n\n▢ *Título:* ",
+                "_*🐼🎋 DESCARGAS - PLAY V2 🎋🐼*_\n\n▢ *Título:* ",
                 "▢ *Publicado:*",
                 "▢ *Canal:*",
                 "▢ *Vídeo URL:*"
             ],
-            "texto5": "_*< DESCARGAS - PLAY V2 />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
-            "texto6": "_*< DESCARGAS - PLAY V2 />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
+            "texto5": "_*🐼🎋 DESCARGAS - PLAY V2 🎋🐼*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
+            "texto6": "_*🐼🎋 DESCARGAS - PLAY V2 🎋🐼*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
         },
         "descargas_play": {
             "texto1": [
-                "_*< DESCARGAS - PLAY />*_\n\n*[ ℹ️ ] Hace falta el título o enlace del video de YouTube.*\n\n*[ 💡 ] Ejemplo:*",
+                "_*🐼🎋 DESCARGAS - PLAY 🎋🐼*_\n\n*[ ℹ️ ] Hace falta el título o enlace del video de YouTube.*\n\n*[ 💡 ] Ejemplo:*",
                 "Good Feeling - Flo Rida_"
             ],
             "texto2": [
-                "_*< DESCARGAS - PLAY />*_\n\n▢ *Título:*",
+                "_*🐼🎋 DESCARGAS - PLAY 🎋🐼*_\n\n▢ *Título:*",
                 "▢ *Publicado:*",
                 "▢ *Duración:*",
                 "▢ *Vistas:*",
@@ -576,21 +576,21 @@
                 "espere...*"
             ],
             "texto3": "*[ ℹ️ ] Descargue su audio en:*",
-            "texto4": "_*< DESCARGAS - PLAY />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
-            "texto5": "_*< DESCARGAS - PLAY />*_\n\n*[ ℹ️ ] Descargue su vídeo en:*",
-            "texto6": "_*< DESCARGAS - PLAY />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
+            "texto4": "_*🐼🎋 DESCARGAS - PLAY 🎋🐼*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
+            "texto5": "_*🐼🎋 DESCARGAS - PLAY 🎋🐼*_\n\n*[ ℹ️ ] Descargue su vídeo en:*",
+            "texto6": "_*🐼🎋 DESCARGAS - PLAY 🎋🐼*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
         },
         "descargas_spotify": {
-            "texto1": "_*< DESCARGAS - SPOTIFY />*_\n\n*[ ℹ️ ] Hace falta el título de la canción de Spotify.*\n\n*[ 💡 ] Ejemplo:*",
+            "texto1": "_*🐼🎋 DESCARGAS - SPOTIFY 🎋🐼*_\n\n*[ ℹ️ ] Hace falta el título de la canción de Spotify.*\n\n*[ 💡 ] Ejemplo:*",
             "texto2": [
-                "*< DESCARGAS - SPOTIFY />*",
+                "*🐼🎋 DESCARGAS - SPOTIFY 🎋🐼*",
                 "▢ *Título:*",
                 "▢ *Artista:*",
                 "▢ *Álbum:*",
                 "▢ *Publicado:*",
                 "*[ ℹ️ ] Se está enviando el audio. espere...*"
             ],
-            "texto3": "_*< DESCARGAS - SPOTIFY />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
+            "texto3": "_*🐼🎋 DESCARGAS - SPOTIFY 🎋🐼*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
         },
         "descargas_spotifypro": {
             "texto1": "*[❗] Ingrese el link de algún track, playlist o álbum de Spotify o simplemente el nombre de una canción para buscar.*",
@@ -630,31 +630,31 @@
             "texto7": "*[❗] Error, no se encontraron resultados.*"
         },
         "descargas_tiktok": {
-            "texto1": "_*< DESCARGAS - TIKTOK />*_\n\n*[ ℹ️ ] Ingrese un enlace de TikTok.*\n\n*[ 💡 ] Ejemplo:*",
-            "texto2": "_*< DESCARGAS - TIKTOK />*_\n\n*[ ℹ️ ] Ingrese un enlace de TikTok.*\n\n*[ 💡 ] Ejemplo:*",
-            "texto3": "_*< DESCARGAS - TIKTOK />*_\n\n*[ ℹ️ ] Se está enviando el video. espere...*",
+            "texto1": "_*🐼🎋 DESCARGAS - TIKTOK 🎋🐼*_\n\n*[ ℹ️ ] Ingrese un enlace de TikTok.*\n\n*[ 💡 ] Ejemplo:*",
+            "texto2": "_*🐼🎋 DESCARGAS - TIKTOK 🎋🐼*_\n\n*[ ℹ️ ] Ingrese un enlace de TikTok.*\n\n*[ 💡 ] Ejemplo:*",
+            "texto3": "_*🐼🎋 DESCARGAS - TIKTOK 🎋🐼*_\n\n*[ ℹ️ ] Se está enviando el video. espere...*",
             "texto4": [
-                "_*< DESCARGAS - TIKTOK />*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
+                "_*🐼🎋 DESCARGAS - TIKTOK 🎋🐼*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
                 "*para convertirlo en audio.*"
             ],
             "texto5": [
-                "_*< DESCARGAS - TIKTOK />*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
+                "_*🐼🎋 DESCARGAS - TIKTOK 🎋🐼*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
                 "*para convertirlo en audio.*"
             ],
             "texto6": [
-                "_*< DESCARGAS - TIKTOK />*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
+                "_*🐼🎋 DESCARGAS - TIKTOK 🎋🐼*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
                 "*para convertirlo en audio.*"
             ],
             "texto7": [
-                "_*< DESCARGAS - TIKTOK />*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
+                "_*🐼🎋 DESCARGAS - TIKTOK 🎋🐼*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
                 "*para convertirlo en audio.*"
             ],
             "texto8": [
-                "_*< DESCARGAS - TIKTOK />*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
+                "_*🐼🎋 DESCARGAS - TIKTOK 🎋🐼*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
                 "*para convertirlo en audio.*"
             ],
-            "texto9": "_*< DESCARGAS - TIKTOK />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
-            "texto10": "_*< DESCARGAS - TIKTOK />*_\n\n*[ ℹ️ ] Ingrese un enlace de TikTok.*\n\n*[ 💡 ] Ejemplo:*"
+            "texto9": "_*🐼🎋 DESCARGAS - TIKTOK 🎋🐼*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
+            "texto10": "_*🐼🎋 DESCARGAS - TIKTOK 🎋🐼*_\n\n*[ ℹ️ ] Ingrese un enlace de TikTok.*\n\n*[ 💡 ] Ejemplo:*"
         },
         "downloader_igstory": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙴 𝙴𝙻 𝙽𝙾𝙼𝙱𝚁𝙴 𝙳𝙴 𝚄𝙽 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 𝙳𝙴 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼*\n\n*𝙴𝙹𝙴𝙼𝙿𝙻𝙾:*",
@@ -2376,25 +2376,25 @@
         },
         "grupos_eliminar": {
             "texto1": [
-                "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ] El propietario del bot ha activado la función de restricción",
+                "_*🐼🎋 GRUPOS - ELIMINAR 🎋🐼*_\n\n*[ ℹ️ ] El propietario del bot ha activado la función de restricción",
                 "por lo que no se ejecutó el comando solicitado.*"
             ],
-            "texto2": "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ] Etiqueta o responde a un mensaje del participante que deseas eliminar.*\n\n*[ 💡 ] Ejemplo:*",
-            "texto3": "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ] Etiqueta o responde a un mensaje del participante que deseas eliminar.",
-            "texto4": "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ] El bot no puede eliminarse a si mismo.*",
+            "texto2": "_*🐼🎋 GRUPOS - ELIMINAR 🎋🐼*_\n\n*[ ℹ️ ] Etiqueta o responde a un mensaje del participante que deseas eliminar.*\n\n*[ 💡 ] Ejemplo:*",
+            "texto3": "_*🐼🎋 GRUPOS - ELIMINAR 🎋🐼*_\n\n*[ ℹ️ ] Etiqueta o responde a un mensaje del participante que deseas eliminar.",
+            "texto4": "_*🐼🎋 GRUPOS - ELIMINAR 🎋🐼*_\n\n*[ ℹ️ ] El bot no puede eliminarse a si mismo.*",
             "texto5": [
-                "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ] El participante",
+                "_*🐼🎋 GRUPOS - ELIMINAR 🎋🐼*_\n\n*[ ℹ️ ] El participante",
                 "fue eliminado.*"
             ],
             "texto6": [
-                "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ]",
+                "_*🐼🎋 GRUPOS - ELIMINAR 🎋🐼*_\n\n*[ ℹ️ ]",
                 "es el propietario del grupo, por lo mismo no puede ser eliminado.*"
             ],
             "texto7": [
-                "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ]",
+                "_*🐼🎋 GRUPOS - ELIMINAR 🎋🐼*_\n\n*[ ℹ️ ]",
                 "ya fue eliminado o salio del grupo.*"
             ],
-            "texto8": "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
+            "texto8": "_*🐼🎋 GRUPOS - ELIMINAR 🎋🐼*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
         },
         "herramientas_acortar": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙴 𝚄𝙽 𝙴𝙽𝙻𝙰𝙲𝙴 / 𝚄𝚁𝙻 𝙴𝙻 𝙲𝚄𝙰𝙻 𝙳𝙴𝚂𝙴𝙰 𝙰𝙲𝙾𝚁𝚃𝙰𝚁*",
@@ -2528,7 +2528,7 @@
         "herramientas_igstalk": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙴 𝙴𝙻 𝙽𝙾𝙼𝙱𝚁𝙴 𝙳𝙴 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 𝙳𝙴 𝚄𝙽 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 𝙳𝙴 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼, 𝙴𝙹𝙴𝙼𝙿𝙻𝙾:",
             "texto2": [
-                "< HERRAMENTAS - IGSTALK />",
+                "🐼🎋 HERRAMENTAS - IGSTALK 🎋🐼",
                 "▢ *Nombre:*",
                 "▢ *Usuario:*",
                 "▢ *Seguidores:*",
@@ -2613,18 +2613,18 @@
             "texto4": "*[❗𝐈𝐍𝐅𝐎❗] 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙰 𝙰 𝚄𝙽 𝙰𝚄𝙳𝙸𝙾*"
         },
         "ia_bard": {
-            "texto1": "_*< IA - BARD />*_\n\n*[ ℹ️ ] Proporciona un texto.*\n\n*[ 💡 ] Ejemplo:*",
+            "texto1": "_*🐼🎋 IA - BARD 🎋🐼*_\n\n*[ ℹ️ ] Proporciona un texto.*\n\n*[ 💡 ] Ejemplo:*",
             "texto2": "Hola Bard, ¿cómo estás?_",
-            "texto3": "_*< IA - BARD />*_\n\n*[ ℹ️ ] No se pudo obtener una respuesta válida.*",
-            "texto4": "_*< IA - BARD />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
+            "texto3": "_*🐼🎋 IA - BARD 🎋🐼*_\n\n*[ ℹ️ ] No se pudo obtener una respuesta válida.*",
+            "texto4": "_*🐼🎋 IA - BARD 🎋🐼*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
         },
         "ia_character_ai": {
             "texto1": [
-                "_*< IA - CHARACTER.AI />*_\n\n*[ ℹ️ ] Proporciona un texto.*\n\n*[ 💡 ] Ejemplo:*",
+                "_*🐼🎋 IA - CHARACTER.AI 🎋🐼*_\n\n*[ ℹ️ ] Proporciona un texto.*\n\n*[ 💡 ] Ejemplo:*",
                 "Hola, ¿cómo estás?_"
             ],
-            "texto2": "_*< IA - CHARACTER.AI />*_\n\n*[ ℹ️ ] No se pudo obtener una respuesta válida.*",
-            "texto3": "_*< IA - CHARACTER.AI />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
+            "texto2": "_*🐼🎋 IA - CHARACTER.AI 🎋🐼*_\n\n*[ ℹ️ ] No se pudo obtener una respuesta válida.*",
+            "texto3": "_*🐼🎋 IA - CHARACTER.AI 🎋🐼*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
         },
         "info_covid": {
             "texto1": "*[❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙴 𝙴𝙻 𝙽𝙾𝙼𝙱𝚁𝙴 𝙳𝙴 𝚄𝙽 𝙿𝙰𝙸𝚂, 𝙴𝙹𝙴𝙼𝙿𝙻𝙾",
@@ -2677,7 +2677,7 @@
         },
         "info_estado": {
             "texto1": [
-                "*< INFO - ESTADO />*_",
+                "*🐼🎋 INFO - ESTADO 🎋🐼*_",
                 "▢ *Prop.:*",
                 "▢ *WA:*",
                 "▢ *PayPal:*",
@@ -2770,7 +2770,7 @@
         },
         "info_repositorio": {
             "texto1": [
-                "_*< INFO - REPOSITORIO />*_",
+                "_*🐼🎋 INFO - REPOSITORIO 🎋🐼*_",
                 "▢ *Nombre:*",
                 "TheMystic-Bot-MD",
                 "▢ *Visitantes:*",
@@ -2788,22 +2788,22 @@
             "texto1": "*=> El desconocimiento de lo que aqui se menciona no exime al propietario del Bot, Sub Bot o usuario del bot de la sanciones que se puedan derivar❗*\n\n*⚠️ Términos de privacidad*\n_1.- La información que reciba el Bot NO se comparte con ningún tercero ni con nadie_\n_2.- Las imágenes/videos/sticker/audios/etc no son compartidos con nadie_\n_3.- Su numero de teléfono no es compartido con absolutamente nadie_\n_4.- Datos de tarjetas, ubicaciones, direcciones, etc son eliminados inmediatamente y no se comparten con absolutamente nadie_\n_5.- Todas las conversaciones son eliminadas cada determinado tiempo y no se hace backup (no se guarda) de ningún tipo de información/conversación_\n\n*⚠️ Términos de uso*\n_1.- No nos hacemos responsables de un mal uso que se le pueda dar al Bot_\n_2.- No nos hacemos responsables de la ignorancia y/o desconocimiento del tema_\n_3.- El Bot no esta activo las 24 horas al menos de que el propietario decida lo contrario_\n_4.- La 'empresa' no se hace responsable del uso de un Sub Bot o Bot no oficial, ya que son personas (terceros) y no tenemos control sobre ell@s_\n_5.- No nos hacemos responsables de los números que se puedan ir a soporte por el uso del Bot, es aconsejable siempre usar números virtuales para usos de Bots_\n_6.- Los audios/notas de voz/imágenes/videos o cualquier otro archivo multimedia que sean de propiedad de The Mystic - Bot son únicamente y exclusivamente de este Bot, si se detecta a otro Bot con alguno o algunos de los archivos multimedia antes mencionado se tomarán cartas en el asunto._\n\n*➤ Mensaje del numero del Bot?*\n_- Si en algún momento recibe un mensaje del numero del Bot y no es un comando posiblemente sea de el propietario del Bot o el propietario del numero, este es un persona real por lo que se le pide que no le falte el respeto_\n\n*➤ Base usada para este Bot:*\n*- https://github.com/BochilGaming/games-wabot-md*\n\n*➤ Agradecimientos a:*\n*- Unx21*\n*- Narutomo*\n*- BochilGaming*\n*- Unxteam*\n*- Bochilteam*\n*- ConfuMods*\n*- Theh2so4*\n*- Hiro*\n*- The.sad.boy01*\n*- botstylee*\n*- Amel*\n*- FatihArridho*\n*- Adiwajshing*\n*- Darlyn*\n*- Etc.*\n\n*⁉️ Te quedaron dudas?*\n_- Si todavía tienes alguna duda o reclamo de lo mencionado aqui o referente al Bot, contáctame a mi numero personal al cual estaré respondiendo lo antes posible para brindarte una solución y/o hacerme responsable de alguna reclamación_ \n\n> wa.me/5219992095479\n> Bruno Sobrino \n> Correo electronico: theshadowbrokers133@gmailcom\n\n*∆ THE MYSTIC - BOT - MD ∆*"
         },
         "juegos_matematicas_respuestas": {
-            "texto1": "_*< JUEGOS - MATEMÁTICAS />*_\n\n*[ ℹ️ ] El ejercicio matemático ya fue resuelto anteriormente.*",
-            "texto2": "`_*< JUEGOS - MATEMÁTICAS />*_\n\n▢ *¡Respuesta correcta!*\n\n▢ *Ganaste:*",
-            "texto3": "_*< JUEGOS - MATEMÁTICAS />*_\n\n▢ *Ya no tienes más oportunidades.*\n\n▢ *Respuesta correcta:*",
-            "texto4": "_*< JUEGOS - MATEMÁTICAS />*_\n\n▢ *Respuesta incorrecta.*\n\n▢ Todavía tienes",
+            "texto1": "_*🐼🎋 JUEGOS - MATEMÁTICAS 🎋🐼*_\n\n*[ ℹ️ ] El ejercicio matemático ya fue resuelto anteriormente.*",
+            "texto2": "`_*🐼🎋 JUEGOS - MATEMÁTICAS 🎋🐼*_\n\n▢ *¡Respuesta correcta!*\n\n▢ *Ganaste:*",
+            "texto3": "_*🐼🎋 JUEGOS - MATEMÁTICAS 🎋🐼*_\n\n▢ *Ya no tienes más oportunidades.*\n\n▢ *Respuesta correcta:*",
+            "texto4": "_*🐼🎋 JUEGOS - MATEMÁTICAS 🎋🐼*_\n\n▢ *Respuesta incorrecta.*\n\n▢ Todavía tienes",
             "texto5": " oportunidad(es)."
         },
         "juegos_matemicas": {
-            "texto1": "_*< JUEGOS - MATEMÁTICAS />*_\n\n*[ ℹ️ ] Falta indicar el nivel de dificultad con el que deseas jugar.*\n\n*[ 💡 ] Ejemplo:*",
+            "texto1": "_*🐼🎋 JUEGOS - MATEMÁTICAS 🎋🐼*_\n\n*[ ℹ️ ] Falta indicar el nivel de dificultad con el que deseas jugar.*\n\n*[ 💡 ] Ejemplo:*",
             "texto2": "▢ *Niveles disponibles:*",
-            "texto3": "_*< JUEGOS - MATEMÁTICAS />*_\n\n*[ ℹ️ ] Aún quedan problemas matemáticos sin resolver en este chat.*",
+            "texto3": "_*🐼🎋 JUEGOS - MATEMÁTICAS 🎋🐼*_\n\n*[ ℹ️ ] Aún quedan problemas matemáticos sin resolver en este chat.*",
             "texto4": [
-                "_*< JUEGOS - MATEMÁTICAS />*_\n\n▢ *Resuelve:*",
+                "_*🐼🎋 JUEGOS - MATEMÁTICAS 🎋🐼*_\n\n▢ *Resuelve:*",
                 "▢ *Tiempo:*",
                 "▢ *Premio:*"
             ],
-            "texto5": "_*< JUEGOS - MATEMÁTICAS />*_\n\n*[ ℹ️ ] Se agotó el tiempo.*\n\n▢ *Respuesta:* "
+            "texto5": "_*🐼🎋 JUEGOS - MATEMÁTICAS 🎋🐼*_\n\n*[ ℹ️ ] Se agotó el tiempo.*\n\n▢ *Respuesta:* "
         },
         "maker_blur": {
             "texto1": "*[ ✔ ] 𝙴𝙵𝙴𝙲𝚃𝙾 𝙰𝙿𝙻𝙸𝙲𝙰𝙳𝙾*"
@@ -2815,7 +2815,7 @@
             "texto1": "*𝚃𝚄 𝙴𝚂𝚃𝙰𝚂 𝙷𝙾𝚁𝙽𝚈 🥵🔥*"
         },
         "maker_logos": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] ¿𝙲𝙾𝙼𝙾 𝚄𝚂𝙰𝚁 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾?*\n—◉ _#logo (efecto) (texto)_\n*𝙴𝙹𝙴𝙼𝙿𝙻𝙾:*\n—◉ _#logo 3d-deep-sea-metal Mystic_\n\n*[❗] 𝙲𝚄𝙰𝙽𝙳𝙾 𝙻𝙴𝚂 𝙳𝙸𝙶𝙰 𝚀𝚄𝙴 𝙷𝙰𝙲𝙴 𝙵𝙰𝙻𝚃𝙰 𝚄𝙽 𝚃𝙴𝚇𝚃𝙾 𝙴𝙻 𝚄𝚂𝙾 𝚂𝙴𝚁𝙸𝙰:*\n—◉ _#logo (efecto) (texto1|texto2)_\n*𝙴𝙹𝙴𝙼𝙿𝙻𝙾:*\n—◉ _#logo Wolf-Logo-Galaxy Mystic|Bot_\n\n*<𝑳𝑰𝑺𝑻𝑨 𝑫𝑬 𝑬𝑭𝑬𝑪𝑻𝑶𝑺/>*\n\n° ඬ⃟📝 #logo ",
+            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] ¿𝙲𝙾𝙼𝙾 𝚄𝚂𝙰𝚁 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾?*\n—◉ _#logo (efecto) (texto)_\n*𝙴𝙹𝙴𝙼𝙿𝙻𝙾:*\n—◉ _#logo 3d-deep-sea-metal Mystic_\n\n*[❗] 𝙲𝚄𝙰𝙽𝙳𝙾 𝙻𝙴𝚂 𝙳𝙸𝙶𝙰 𝚀𝚄𝙴 𝙷𝙰𝙲𝙴 𝙵𝙰𝙻𝚃𝙰 𝚄𝙽 𝚃𝙴𝚇𝚃𝙾 𝙴𝙻 𝚄𝚂𝙾 𝚂𝙴𝚁𝙸𝙰:*\n—◉ _#logo (efecto) (texto1|texto2)_\n*𝙴𝙹𝙴𝙼𝙿𝙻𝙾:*\n—◉ _#logo Wolf-Logo-Galaxy Mystic|Bot_\n\n*<𝑳𝑰𝑺𝑻𝑨 𝑫𝑬 𝑬𝑭𝑬𝑪𝑻𝑶𝑺🎋🐼*\n\n° ඬ⃟📝 #logo ",
             "texto2": [
                 "*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝙻 𝙴𝙵𝙴𝙲𝚃𝙾",
                 "𝙽𝙾 𝙴𝚂𝚃𝙰 𝙴𝙽 𝙻𝙰 𝙻𝙸𝚂𝚃𝙰 𝙳𝙴 𝙴𝙵𝙴𝙲𝚃𝙾𝚂*"
@@ -2861,12 +2861,12 @@
         "menu_caja_fuerte": {
             "texto1": [
                 "𝙷𝙾𝙻𝙰",
-                "*🗳️<ℂ𝔸𝕁𝔸 𝔽𝕌𝔼ℝ𝕋𝔼/>🔐*",
+                "*🗳️🐼🎋ℂ𝔸𝕁𝔸 𝔽𝕌𝔼ℝ𝕋𝔼🎋🐼🔐*",
                 "- 𝙰𝚀𝚄𝙸 𝙿𝚄𝙴𝙳𝙴 𝙶𝚄𝙰𝚁𝙳𝙰𝚁 𝙼𝙴𝙽𝚂𝙰𝙹𝙴𝚂 𝚀𝚄𝙴 𝚀𝚄𝙸𝙴𝚁𝙰𝚂 𝚅𝙴𝚁 𝙼𝙰𝚂 𝚃𝙰𝚁𝙳𝙴",
-                "*<𝔸𝔾ℝ𝔼𝔾𝔸ℝ 𝔸 𝕃𝔸 𝕃𝕀𝕊𝕋𝔸/>*",
-                "*<𝕃𝕀𝕊𝕋𝔸 𝔻𝔼 ℂ𝕆𝕄𝔸ℕ𝔻𝕆𝕊/>*",
-                "*<𝕍𝔼ℝ 𝕋𝔼𝕏𝕋𝕆𝕊 𝕆 𝔸ℝℂℍ𝕀𝕍𝕆𝕊/>*",
-                "*<𝔼𝕃𝕀𝕄𝕀ℕ𝔸ℝ/>*"
+                "*🐼🎋𝔸𝔾ℝ𝔼𝔾𝔸ℝ 𝔸 𝕃𝔸 𝕃𝕀𝕊𝕋𝔸🎋🐼*",
+                "*🐼🎋𝕃𝕀𝕊𝕋𝔸 𝔻𝔼 ℂ𝕆𝕄𝔸ℕ𝔻𝕆𝕊🎋🐼*",
+                "*🐼🎋𝕍𝔼ℝ 𝕋𝔼𝕏𝕋𝕆𝕊 𝕆 𝔸ℝℂℍ𝕀𝕍𝕆𝕊🎋🐼*",
+                "*🐼🎋𝔼𝕃𝕀𝕄𝕀ℕ𝔸ℝ🎋🐼*"
             ],
             "texto2": [
                 "*<texto/comando/palabra clave>* (responde a un texto)_",
@@ -2897,7 +2897,7 @@
             "texto1": [
                 "*[❗] Los comandos +18 están desactivados en este grupo, si es admin y desea activarlos use",
                 "*𝗛ola",
-                "*< MENU+18 />*",
+                "*🐼🎋 MENU+18 🎋🐼*",
                 "*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝙻 𝙼𝙴𝙽𝚄 𝚃𝙸𝙴𝙽𝙴 𝚄𝙽 𝙴𝚁𝚁𝙾𝚁 𝚈 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙴𝙽𝚅𝙸𝙰𝚁𝙻𝙾, 𝚁𝙴𝙿𝙾𝚁𝚃𝙴𝙻𝙾 𝙰𝙻 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃*"
             ]
         },
@@ -2905,7 +2905,7 @@
             "texto1": [
                 "𝙏𝙃𝙀 𝙈𝙔𝙎𝙏𝙄𝘾 - 𝘽𝙊𝙏",
                 "▢ *Hola,*",
-                "_*< TUS ESTADÍSTICAS />*_",
+                "_*🐼🎋 TUS ESTADÍSTICAS 🎋🐼*_",
                 "▢ *Nivel:* ",
                 "▢ *Experiencia:* ",
                 "▢ *Rango:* ",
@@ -2913,29 +2913,29 @@
                 "▢ *MysticCoins:* ",
                 "▢ *Tokens:* ",
                 "▢ *Premium:* ",
-                " _*< LISTA DE MENUS />*_",
-                "_*< SOBRE EL BOT />*_",
-                "_*< SUB-BOTS />*_",
-                "_*< JUEGOS />*_",
-                " _*< ACT./DESACT. FUNC. />*_",
-                " _*< DESCARGAS />*_",
-                " _*< BUSCADORES />*_",
-                " _*< GRUPOS />*_",
-                "_*< CONVERTIDORES />*_",
-                " _*< EFECTOS & LOGOS />*_",
-                " _*< FRASES & TEXTOS />*_",
-                " _*< ALEATORIO />*_",
-                " _*< EFECTOS P. AUDIOS />*_",
+                " _*🐼🎋 LISTA DE MENUS 🎋🐼*_",
+                "_*🐼🎋 SOBRE EL BOT 🎋🐼*_",
+                "_*🐼🎋 SUB-BOTS 🎋🐼*_",
+                "_*🐼🎋 JUEGOS 🎋🐼*_",
+                " _*🐼🎋 ACT./DESACT. FUNC. 🎋🐼*_",
+                " _*🐼🎋 DESCARGAS 🎋🐼*_",
+                " _*🐼🎋 BUSCADORES 🎋🐼*_",
+                " _*🐼🎋 GRUPOS 🎋🐼*_",
+                "_*🐼🎋 CONVERTIDORES 🎋🐼*_",
+                " _*🐼🎋 EFECTOS & LOGOS 🎋🐼*_",
+                " _*🐼🎋 FRASES & TEXTOS 🎋🐼*_",
+                " _*🐼🎋 ALEATORIO 🎋🐼*_",
+                " _*🐼🎋 EFECTOS P. AUDIOS 🎋🐼*_",
                 "*- Responde a un audio o nota de voz.*",
-                "_*< CHAT ANÓNIMO />*_",
-                "_*< HERRAMIENTAS />*_",
-                " _*< ECONOMÍA />*_",
-                " _*< STICKERS />*_",
-                "_*< PROPIETARIO Y MODS. />*_",
+                "_*🐼🎋 CHAT ANÓNIMO 🎋🐼*_",
+                "_*🐼🎋 HERRAMIENTAS 🎋🐼*_",
+                " _*🐼🎋 ECONOMÍA 🎋🐼*_",
+                " _*🐼🎋 STICKERS 🎋🐼*_",
+                "_*🐼🎋 PROPIETARIO Y MODS. 🎋🐼*_",
                 "*[ ℹ️ ] Este menu tiene un error interno, por lo cual no fue posible enviarlo.*",
-                "*<opcion> <tiempo>*_",
+                "*🐼🎋opcion> <tiempo>*_",
                 "(sin prefijo)",
-                "*<nombre sala>*_"
+                "*🐼🎋nombre sala>*_"
             ],
             "texto2": "Opciones de idioma 🌎",
             "texto3": "_lenguaje grupal_",
@@ -2985,7 +2985,7 @@
         },
         "nv_global": {
             "texto1": [
-                "*< UNE UN BOT A TU GRUPO />*\n\n*—◉ Hola",
+                "*🐼🎋 UNE UN BOT A TU GRUPO 🎋🐼*\n\n*—◉ Hola",
                 "si deseas solicitar un Bot para tu grupo usa el comando #join mas el enlace de tu grupo.*\n\n*—◉ Ejemplo:*\n*◉ #join* "
             ]
         },
@@ -3285,10 +3285,10 @@
             "texto2": "La imagen no existe en la carpeta raíz."
         },
         "propietario_actualizar": {
-            "texto1": "_*< PROPIETARIO - UPDATE />*_\n\n*[ ✅ ] No hay actualizaciones pendientes.*",
-            "texto2": "_*< PROPIETARIO - ACTUALIZAR />*_\n\n*[ ℹ️ ] Actualización finalizada exitosamente.*\n\n",
-            "texto3": "_*< PROPIETARIO - ACTUALIZAR />*_\n\n*[ ℹ️ ] Se han hecho cambios locales en archivos del bot que entran en conflicto con las actualizaciones del repositorio. Para actualizar, reinstala el bot o realiza las actualizaciones manualmente.*\n\n*Archivos en conflicto:*",
-            "texto4": "_*< PROPIETARIO - ACTUALIZAR />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
+            "texto1": "_*🐼🎋 PROPIETARIO - UPDATE 🎋🐼*_\n\n*[ ✅ ] No hay actualizaciones pendientes.*",
+            "texto2": "_*🐼🎋 PROPIETARIO - ACTUALIZAR 🎋🐼*_\n\n*[ ℹ️ ] Actualización finalizada exitosamente.*\n\n",
+            "texto3": "_*🐼🎋 PROPIETARIO - ACTUALIZAR 🎋🐼*_\n\n*[ ℹ️ ] Se han hecho cambios locales en archivos del bot que entran en conflicto con las actualizaciones del repositorio. Para actualizar, reinstala el bot o realiza las actualizaciones manualmente.*\n\n*Archivos en conflicto:*",
+            "texto4": "_*🐼🎋 PROPIETARIO - ACTUALIZAR 🎋🐼*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
         },
         "random_kpop": {
             "texto1": [
@@ -3477,7 +3477,7 @@
                 "Aventúrate y conquista los primeros lugares con determinación."
             ],
             "texto2": [
-                "*< TABLA DE LOS AVENTUREROS MÁS DESTACADOS />*",
+                "*🐼🎋 TABLA DE LOS AVENTUREROS MÁS DESTACADOS 🎋🐼*",
                 "—◉ *TOP",
                 "EXP 🌟*",
                 "*👤 Tú posición:*",
@@ -3813,7 +3813,7 @@
     "handler": {
         "handler": {
             "texto1": [
-                "_*< USUARIO SUSPENDIDO />*_\n",
+                "_*🐼🎋 USUARIO SUSPENDIDO 🎋🐼*_\n",
                 "▢ *Aviso:*",
                 "\n▢ *Motivo:*",
                 "▢ *Motivo:* Sin especificar",
@@ -3860,7 +3860,7 @@
         },
         "deleteUpdate": {
             "texto1": [
-                "_*< ANTI-DELETE />*_\n",
+                "_*🐼🎋 ANTI-DELETE 🎋🐼*_\n",
                 " ▢ *Usuario:*",
                 " ▢ *Hora:*",
                 "▢ *Fecha:*",
