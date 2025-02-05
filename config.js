@@ -6,7 +6,7 @@ import moment from 'moment-timezone';
 
 global.botnumber = ""
 global.confirmCode = ""
-global.authFile = `MysticSession`;
+global.authFile = `PandaBot`;
 
 // Cambiar a true si el Bot responde a sus comandos con otros comandos.
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
@@ -16,57 +16,57 @@ global.isBaileysFail = false
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
-  ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
-  ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
-  ['50246028932', '💫 Mystic - Collaborator 5 💫', true],
-  ['5212412377467', '💫 Mystic - Collaborator 6 💫', true],
-  ['5215517489568', '💫 Mystic - Rey Endymion 💫', false],
-  ['59895555511', '💫 Mystic - Collaborator 8 💫', true],
-  ['573012482597', '💫 Mystic - OfcKing', true],
-  ['59175655964', '💫 Mystic - By Alba070503 💫', true],
-  ['5493794297363', '💫 Mystic - GabrielVz', true], 
-  ['393518398856', '💫 Mystic - Tester Fabri115💫', true],
-  ['212781160203', '💫 Mystic - Saad 💫', true], 
-  ['5217778573223', '💫 Mystic - Sarethh 💫', true],
-  ['593968585283'],
-  ['5492266466080'],
-  ['5218442114446'],
-  ['59894808483'],
-  ['593980586516'], 
-  ['595975740803'],  
-  ['5492266613038'],
-  ['50497150165'],
-  ['51906662557'],
-  ['573183650526'], 
-  ['5217441298510'], 
-  ['5217294888993'],
-  ['595992611272'],
-  ['5219992843892'],
-  ['5493795319022'],
-  ['573147616444'], 
-  ['5219991402134'],
-  ['5219996125657'],
-  ['5492215034412'],
-  ['584125778026'],
-  ['5218444937407'],
-  ['5218713339906']
+  ['5215541081250', '𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭', true],
+  ['5215541081250', '𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭', true],
+  ['5215541081250', '𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭', true],
+  ['5215541081250', '𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭', true],
+  ['5215541081250', '𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭', true],
+  ['5215541081250', '𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭', true],
+  ['5215541081250', '𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭', false],
+  ['5215541081250', '𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭', true],
+  ['5215541081250', '𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭', true],
+  ['5215541081250', '𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭', true],
+  ['5215541081250', '𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭', true], 
+  ['5215541081250', '𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭', true],
+  ['5215541081250', '𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭', true], 
+  ['5215541081250', '𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭', true],
+  ['5215541081250'],
+  ['5215541081250'],
+  ['5215541081250'],
+  ['5215541081250'],
+  ['5215541081250'], 
+  ['5215541081250'],  
+  ['5215541081250'],
+  ['5215541081250'],
+  ['5215541081250'],
+  ['5215541081250'], 
+  ['5215541081250'], 
+  ['5215541081250'],
+  ['5215541081250'],
+  ['5215541081250'],
+  ['5215541081250'],
+  ['5215541081250'], 
+  ['5215541081250'],
+  ['5215541081250'],
+  ['5215541081250'],
+  ['5215541081250'],
+  ['5215541081250'],
+  ['5215541081250']
 ];
 
-global.suittag = ['5219993404349'];
-global.prems = ['51995386439'];
+global.suittag = ['5215541081250'];
+global.prems = ['5215541081250'];
 
 // API
 global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
 
-global.packname = 'Sticker';
-global.author = 'The Mystic - Bot';
-global.wm = 'The Mystic - Bot';
-global.titulowm = 'The Mystic - Bot';
-global.titulowm2 = `The Mystic - Bot`
-global.igfg = 'The Mystic - Bot';
-global.wait = '*_[ ⏳ ] Cargando..._*';
+global.packname = '𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭';
+global.author = '𝐁𝐲 𝐒𝐡𝐚𝐝𝐨𝐰𝐕𝐳';
+global.wm = '𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭';
+global.titulowm = '𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭';
+global.titulowm2 = `𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭`
+global.igfg = '𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭';
+global.wait = '*_[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ.._*';
 
 /*global.imagen1 = fs.createReadStream('./src/assets/images/menu/languages/es/menu.png');
 global.imagen2 = fs.createReadStream('./src/assets/images/menu/languages/pt/menu.png');
@@ -97,9 +97,9 @@ global.mysticbot = 'The Mystic - Bot';
 global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.waitt = '*_[ ⏳ ] Cargando..._*';
-global.waittt = '*_[ ⏳ ] Cargando..._*';
-global.waitttt = '*_[ ⏳ ] Cargando..._*';
+global.waitt = '*_[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ.._*';
+global.waittt = '*_[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ.._*';
+global.waitttt = '*_[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ.._*';
 global.nomorown = '5219993404349';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
