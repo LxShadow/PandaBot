@@ -278,161 +278,161 @@
         "config_funciones": {
             "texto1": [
                 "🐼🎋 𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐞𝐬 𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭 🎋🐼",
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* ✨",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Activa o desactiva la bienvenida en el grupo."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* ✨",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Activa o desactiva la bienvenida en el grupo."
             ],
             "texto2": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 🌎",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El bot se vuelve de uso publico y/o privado.",
-                "▢ *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 🌎",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El bot se vuelve de uso publico y/o privado.",
+                " *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto3": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 🥵",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Activa o desactiva los comandos +18 en el grupo."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 🥵",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Activa o desactiva los comandos +18 en el grupo."
             ],
             "texto4": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 🔗",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Activa o desactiva el anti-enlaces de WhatsApp.",
-                "▢ *𝐍𝐨𝐭𝐚:* Se necesita tener activa la función restrict."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 🔗",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Activa o desactiva el anti-enlaces de WhatsApp.",
+                " *𝐍𝐨𝐭𝐚:* Se necesita tener activa la función restrict."
             ],
             "texto5": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 🔗",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Activa o desactiva el anti-enlaces que inician en HTTPS.",
-                "▢ *𝐍𝐨𝐭𝐚:* Se necesita tener activa la función restrict."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 🔗",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Activa o desactiva el anti-enlaces que inician en HTTPS.",
+                " *𝐍𝐨𝐭𝐚:* Se necesita tener activa la función restrict."
             ],
             "texto6": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 🔎",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Activa o desacriva las notificaciones de cambios en el grupo."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 🔎",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Activa o desacriva las notificaciones de cambios en el grupo."
             ],
             "texto7": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 🔎",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Detecta modificaciones en el grupo y mantiene una mejor gestion."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 🔎",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Detecta modificaciones en el grupo y mantiene una mejor gestion."
             ],
             "texto8": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* ❗ |",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Activa o desactiva las restricciones del Bot, como la de sacar o agregar personas a un grupo.",
-                "▢ *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* ❗ |",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Activa o desactiva las restricciones del Bot, como la de sacar o agregar personas a un grupo.",
+                " *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto9": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* ☑️",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Marca como leido los mensajes y los estados automáticamente.",
-                "▢ *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* ☑️",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Marca como leido los mensajes y los estados automáticamente.",
+                " *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto10": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 🔊",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Activa o desactiva los comandos de audios sin prefijos, en el grupo."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 🔊",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Activa o desactiva los comandos de audios sin prefijos, en el grupo."
             ],
             "texto11": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 👾",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Todas las imagenes o videos enviados en el grupo se convierten en stickers. "
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 👾",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Todas las imagenes o videos enviados en el grupo se convierten en stickers. "
             ],
             "texto12": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 💬",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El Bot solo responderá a los comandos si es un chat privado.",
-                "▢ *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 💬",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El Bot solo responderá a los comandos si es un chat privado.",
+                " *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto13": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 🏢",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El Bot solo respondera a los comandos si es un grupo. ",
-                "▢ *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 🏢",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El Bot solo respondera a los comandos si es un grupo. ",
+                " *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto14": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* ❌",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Las imagenes enviadas para ver solo una vez, son reenviadas normal por el Bot. "
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* ❌",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Las imagenes enviadas para ver solo una vez, son reenviadas normal por el Bot. "
             ],
             "texto15": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 📵",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El Bot bloquerá a las personas que llamen al Bot. ",
-                "▢ *𝐍𝐨𝐭𝐚:* Este comando solo podra ser usado por owners del Bot."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 📵",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El Bot bloquerá a las personas que llamen al Bot. ",
+                " *𝐍𝐨𝐭𝐚:* Este comando solo podra ser usado por owners del Bot."
             ],
             "texto16": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 🤬",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Detecta la malas palabras y advierte al participante del grupo, antes de ser eliminado.",
-                "▢ *𝐍𝐨𝐭𝐚:* Se necesita tener activa la función restrict."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 🤬",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Detecta la malas palabras y advierte al participante del grupo, antes de ser eliminado.",
+                " *𝐍𝐨𝐭𝐚:* Se necesita tener activa la función restrict."
             ],
             "texto17": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 🕸️",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:* ",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El Bot detecta textos largos que podrian ser virus y causar lag en el chat y elimina al usuario.",
-                "▢ *𝐍𝐨𝐭𝐚:* Se necesita tener activa la función restrict."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 🕸️",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:* ",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El Bot detecta textos largos que podrian ser virus y causar lag en el chat y elimina al usuario.",
+                " *𝐍𝐨𝐭𝐚:* Se necesita tener activa la función restrict."
             ],
             "texto18": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 👎",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Si un numero árabe se uné al grupo, el Bot lo elimina automaticamente.",
-                "▢ *𝐍𝐨𝐭𝐚:* Se necesita tener activo el welcome y el restrict."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 👎",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Si un numero árabe se uné al grupo, el Bot lo elimina automaticamente.",
+                " *𝐍𝐨𝐭𝐚:* Se necesita tener activo el welcome y el restrict."
             ],
             "texto19": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 👎",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Si un numero árabe escribe en el grupo, el Bot lo elimina automaticamente.",
-                "▢ *𝐍𝐨𝐭𝐚:* Se necesita tener activa la función restrict."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 👎",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Si un numero árabe escribe en el grupo, el Bot lo elimina automaticamente.",
+                " *𝐍𝐨𝐭𝐚:* Se necesita tener activa la función restrict."
             ],
             "texto20": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 👑",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El bot solo responderá a los mensajes enviados por los admins. del grupo."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 👑",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El bot solo responderá a los mensajes enviados por los admins. del grupo."
             ],
             "texto21": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 😃",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El bot empezará a responder a los mensajes usando la IA de SimSimi."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 😃",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El bot empezará a responder a los mensajes usando la IA de SimSimi."
             ],
             "texto22": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 🛡️",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El bot detecta cuando un usuario elimina un mensaje y lo reenvía."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 🛡️",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El bot detecta cuando un usuario elimina un mensaje y lo reenvía."
             ],
             "texto23": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 🔊",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Se desactivan los audios del Bot del menuaudios para todos los chats privados.",
-                "▢ *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 🔊",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Se desactivan los audios del Bot del menuaudios para todos los chats privados.",
+                " *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto24": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 🤖",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Se activa el modo 'Inteligencia Artificial' con ChatGPT en todos los chats privados.",
-                "▢ *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 🤖",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Se activa el modo 'Inteligencia Artificial' con ChatGPT en todos los chats privados.",
+                " *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto25": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* ⏳",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El Bot detecta cuando un usuario hace spam de comando y lo banea por 5 segundos y lo advierte.",
-                "▢ *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* ⏳",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El Bot detecta cuando un usuario hace spam de comando y lo banea por 5 segundos y lo advierte.",
+                " *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto26": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 🤖",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Activa o desactiva el uso del comando para sub bots ",
-                "▢ *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 🤖",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* Activa o desactiva el uso del comando para sub bots ",
+                " *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto27": [
-                "▢ *𝐎𝐩𝐜𝐢𝐨𝐧:* 💬",
-                "▢ *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
-                "▢ *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El Bot bloquerá a las personas que escriban al privado del Bot. ",
-                "▢ *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *𝐎𝐩𝐜𝐢𝐨𝐧:* 💬",
+                " *𝐂𝐨𝐦𝐚𝐧𝐝𝐨:*",
+                " *𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧:* El Bot bloquerá a las personas que escriban al privado del Bot. ",
+                " *𝐍𝐨𝐭𝐚:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto28": [
                 "🐼🎋 𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐞𝐬 𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭 🎋🐼",
                 "[❗] 𝐋𝐚 𝐎𝐩𝐜𝐢𝐨𝐧",
-                "𝐄𝐱𝐢𝐭𝐨𝐬𝐚𝐦𝐞𝐧𝐭𝐞 𝐏𝐚𝐫𝐚 𝐄𝐬𝐭𝐞:"
+                "𝐄𝐱𝐢𝐭𝐨𝐬𝐚𝐦𝐞𝐧𝐭𝐞\n𝐏𝐚𝐫𝐚 𝐄𝐬𝐭𝐞:"
             ]
         },
         "convertidor_toanime": {
