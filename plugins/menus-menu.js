@@ -34,57 +34,16 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `${tradutor.texto1[0]}
 
-${tradutor.texto1[1]} ${taguser}
+  ╭─────── • ◆ • ───────╮
+  |
+  |  𝐇𝐨𝐥𝐚, ${taguser}
+  |  𝐌𝐢 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 𝐄𝐬: 𝐒𝐡𝐚𝐝𝐨𝐰.𝐕𝐳
+  |  𝐖𝐩: wa.me/+5215541081250
+  |  𝐈𝐠: https://www.instagram.com/shadow.vz?igsh=bTRodW9oZXA1NXNz
+  |  𝐅𝐛: https://www.facebook.com/share/18UKvzKSJQ/
+  |
+  ╰──────────────────────╯
 
-${tradutor.texto1[2]}
-
-${tradutor.texto1[3]} ${level}
-${tradutor.texto1[4]} ${exp}
-${tradutor.texto1[5]} ${role}
-${tradutor.texto1[6]} ${limit}
-${tradutor.texto1[7]} ${money}
-${tradutor.texto1[8]} ${joincount}
-${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌') || ''}
- ${readMore}
-
- ${tradutor.texto1[10]}
- 
-╭───── • ◆ • ─────╮
-├✰ _${usedPrefix}menuaudios_
-├✰ _${usedPrefix}menuanimes_
-├✰ _${usedPrefix}labiblia_
-├✰ _${usedPrefix}lang_
-├✰ _${usedPrefix}langgroup_
-├✰ _${usedPrefix}glx_
-╰───── • ◆ • ─────╯
-
-${tradutor.texto1[11]}
-
-╭───── • ◆ • ─────╮
-├✰ _${usedPrefix}terminosycondiciones_
-├✰ _${usedPrefix}grupos_
-├✰ _${usedPrefix}estado_
-├✰ _${usedPrefix}infobot_
-├✰ _${usedPrefix}speedtest_
-├✰ _${usedPrefix}donar_
-├✰ _${usedPrefix}owner_
-├✰ _${usedPrefix}script_
-├✰ _${usedPrefix}reporte _<txt>__
-├✰ _${usedPrefix}join _<wagp_url>__
-├✰ _${usedPrefix}fixmsgespera_
-├✰ _bot_ (sin prefijo)
-╰───── • ◆ • ─────╯
-
-${tradutor.texto1[12]}
-
-╭───── • ◆ • ─────╮
-├✰ _${usedPrefix}serbot --code_
-├✰ _${usedPrefix}serbot_
-├✰ _${usedPrefix}deletebot_
-├✰ _${usedPrefix}token_
-├✰ _${usedPrefix}stop_
-├✰ _${usedPrefix}bots_
-╰───── • ◆ • ─────╯
 
 ${tradutor.texto1[13]}  
 
@@ -366,30 +325,6 @@ ${tradutor.texto1[16]}
  ├✰ _${usedPrefix}img *<txt>*_
  ╰───── • ◆ • ─────╯
 
- ${tradutor.texto1[26]}
-
- ╭───── • ◆ • ─────╮
- ├✰ _${usedPrefix}adventure_
- ├✰ _${usedPrefix}cazar_
- ├✰ _${usedPrefix}cofre_
- ├✰ _${usedPrefix}balance_
- ├✰ _${usedPrefix}claim_
- ├✰ _${usedPrefix}heal_
- ├✰ _${usedPrefix}lb_
- ├✰ _${usedPrefix}levelup_
- ├✰ _${usedPrefix}myns_
- ├✰ _${usedPrefix}perfil_
- ├✰ _${usedPrefix}work_
- ├✰ _${usedPrefix}minar_
- ├✰ _${usedPrefix}minar2_
- ├✰ _${usedPrefix}buy_
- ├✰ _${usedPrefix}buyall_
- ├✰ _${usedPrefix}verificar_
- ├✰ _${usedPrefix}robar *<cant> <@tag>*_
- ├✰ _${usedPrefix}crime
- ├✰ _${usedPrefix}transfer *<tipo> <cant> <@tag>*_
- ├✰ _${usedPrefix}unreg *<sn>*_
- ╰───── • ◆ • ─────╯
 
  ${tradutor.texto1[27]}
  
@@ -492,7 +427,7 @@ ${tradutor.texto1[16]}
  ├✰ _${usedPrefix}delcmd_
  ├✰ _${usedPrefix}saveimage_
  ├✰ _${usedPrefix}viewimage_
- ╰───── • ◆ • ─────╯`
+ ╰───── 🐼🎋 𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭 🎋🐼 ─────╯`
 
     let pp
     // Nuevas Imágenes del menu para otros idiomas
