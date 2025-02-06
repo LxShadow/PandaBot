@@ -3832,41 +3832,42 @@
             ]
         },
         "dfail": {
-            "texto1": "*[❗] 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨 𝐒𝐨𝐥𝐚𝐦𝐞𝐧𝐭𝐞 𝐏𝐮𝐞𝐝𝐞 𝐒𝐞𝐫 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐨 𝐏𝐨𝐫 𝐄𝐥 𝐃𝐮𝐞𝐧̃𝐨 𝐃𝐞𝐥 𝐁𝐨𝐭.*",
-            "texto2": "*[❗] 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨 𝐒𝐨𝐥𝐚𝐦𝐞𝐧𝐭𝐞 𝐏𝐮𝐞𝐝𝐞 𝐒𝐞𝐫 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐨 𝐏𝐨𝐫 𝐄𝐥 𝐃𝐮𝐞𝐧̃𝐨 𝐃𝐞𝐥 𝐁𝐨𝐭.*",
-            "texto3": "*[❗] 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨 𝐒𝐨𝐥𝐚𝐦𝐞𝐧𝐭𝐞 𝐏𝐮𝐞𝐝𝐞 𝐒𝐞𝐫 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐨 𝐏𝐨𝐫 𝐄𝐥 𝐃𝐮𝐞𝐧̃𝐨 𝐃𝐞𝐥 𝐁𝐨𝐭 .*",
-            "texto4": "*[❗] 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨 𝐒𝐨𝐥𝐚𝐦𝐞𝐧𝐭𝐞 𝐏𝐮𝐞𝐝𝐞 𝐒𝐞𝐫 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐨 𝐏𝐨𝐫 𝐄𝐥 𝐃𝐮𝐞𝐧̃𝐨 𝐃𝐞𝐥 𝐁𝐨𝐭.*",
-            "texto5": "*[❗] 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨 𝐒𝐨𝐥𝐚𝐦𝐞𝐧𝐭𝐞 𝐏𝐮𝐞𝐝𝐞 𝐒𝐞𝐫 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐨 𝐄𝐧 𝐆𝐫𝐮𝐩𝐨𝐬.*",
-            "texto6": "*[❗] 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨 𝐒𝐨𝐥𝐚𝐦𝐞𝐧𝐭𝐞 𝐏𝐮𝐞𝐝𝐞 𝐒𝐞𝐫 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐨 𝐄𝐧 𝐄𝐥 𝐏𝐫𝐢𝐯 𝐃𝐞𝐥 𝐁𝐨𝐭.*",
-            "texto7": "*[❗] 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨 𝐒𝐨𝐥𝐚𝐦𝐞𝐧𝐭𝐞 𝐏𝐮𝐞𝐝𝐞 𝐒𝐞𝐫 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐨 𝐏𝐨𝐫 𝐀𝐝𝐦𝐢𝐧𝐬 𝐃𝐞𝐥 𝐆𝐫𝐮𝐩𝐨.*",
-            "texto8": "*[❗] 𝐄𝐬 𝐍𝐞𝐜𝐞𝐬𝐚𝐫𝐢𝐨 𝐐𝐮𝐞 𝐄𝐥 𝐁𝐨𝐭 𝐒𝐞𝐚 𝐀𝐝𝐦𝐢𝐧 𝐏𝐚𝐫𝐚 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐫 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨.*",
-            "texto9": "*𝐏𝐚𝐫𝐚 𝐔𝐬𝐚𝐫 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨 𝐄𝐬 𝐍𝐞𝐜𝐞𝐬𝐚𝐫𝐢𝐨 𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐚𝐫𝐭𝐞.*\n\n*[ 💡 ] 𝐔𝐭𝐢𝐥𝐢𝐳𝐚 𝐄𝐥 𝐂𝐨𝐦𝐚𝐧𝐝𝐨:* _/verificar nombre.edad_ *para registrarte.*",
-            "texto10": "*[ ❗ ] 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨 𝐅𝐮𝐞 𝐃𝐞𝐬𝐡𝐚𝐛𝐢𝐥𝐢𝐭𝐚𝐝𝐨 𝐏𝐨𝐫 𝐄𝐥 𝐃𝐮𝐞𝐧̃𝐨 𝐃𝐞𝐥 𝐁𝐨𝐭.*",
+          "dfail": {
+            "texto1": "*[ ℹ️ ] Este comando solo puede ser utilizado por el propietario del bot.*",
+            "texto2": "*[ ℹ️ ] Este comando solo puede ser utilizado por el propietario del bot.*",
+            "texto3": "*[ ℹ️ ] Este comando solo puede ser utilizado por moderadores y el propietario del bot.*",
+            "texto4": "*[ ℹ️ ] Este comando solo puede ser utilizado por usurios premium y el propietario del bot.*",
+            "texto5": "*[ ℹ️ ] Este comando solo puede ser utilizado en grupos.*",
+            "texto6": "*[ ℹ️ ] Este comando solo puede ser utilizado en el chat privado del bot.*",
+            "texto7": "*[ ℹ️ ] Este comando solo puede ser usado por administradores del grupo.*",
+            "texto8": "*[ ℹ️ ] Para utilizar este comando es necesario que el bot sea administrador del grupo.*",
+            "texto9": "*[ ℹ️ ] Para utilizar este comando debes estar registrado.*\n\n*[ 💡 ] Utiliza el comando:* _/verificar nombre.edad_ *para registrarte.*",
+            "texto10": "*[ ℹ️ ] Este comando fue desactivado por el propietario del bot.*",
             "texto11": [
-                "*[ ⚠ ] 𝐀𝐝𝐯𝐞𝐫𝐭𝐞𝐧𝐜𝐢𝐚*",
-                "*[ ⚠ ] 𝐀𝐝𝐯𝐞𝐫𝐭𝐞𝐧𝐜𝐢𝐚*",
-                "https://www.instagram.com/shadow.vz?igsh=bTRodW9oZXA1NXNz"
+                "*[ ⚠ ] Advertencia*",
+                "*[ ⚠ ] Advertencia*",
+                "https://github.com/BrunoSobrino/TheMystic-Bot-MD"
             ]
         },
         "participantsUpdate": {
-            "texto1": "𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐱 \n @user \n 𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭",
-            "texto2": "𝐇𝐚𝐬𝐭𝐚 𝐍𝐮𝐧𝐜𝐚 \n@user \n 𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭",
-            "texto3": "*[❗] @user 𝐒𝐞 𝐒𝐮𝐦𝐚 𝐀𝐥 𝐆𝐫𝐮𝐩𝐨 𝐃𝐞 𝐀𝐝𝐦𝐢𝐧𝐬.*",
-            "texto4": "*[❗] @user 𝐀𝐛𝐚𝐧𝐝𝐨𝐧𝐚 𝐄𝐥 𝐆𝐫𝐮𝐩𝐨 𝐃𝐞 𝐀𝐝𝐦𝐢𝐧𝐬.*",
-            "texto5": "*[❗] 𝐒𝐞 𝐇𝐚 𝐌𝐨𝐝𝐢𝐟𝐢𝐜𝐚𝐝𝐨 𝐋𝐚 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧 𝐃𝐞𝐥 𝐆𝐫𝐮𝐩𝐨.*",
-            "texto6": "*[❗] 𝐒𝐞 𝐇𝐚 𝐌𝐨𝐝𝐢𝐟𝐢𝐜𝐚𝐝𝐨 𝐄𝐥 𝐍𝐨𝐦𝐛𝐫𝐞 𝐃𝐞𝐥 𝐆𝐫𝐮𝐩𝐨.*",
-            "texto7": "*[❗] 𝐒𝐞 𝐇𝐚 𝐌𝐨𝐝𝐢𝐟𝐢𝐜𝐚𝐝𝐨 𝐋𝐚 𝐈𝐦𝐚𝐠𝐞𝐧 𝐃𝐞𝐥 𝐆𝐫𝐮𝐩𝐨.*",
-            "texto8": "*[❗] 𝐒𝐞 𝐇𝐚 𝐑𝐞𝐬𝐭𝐚𝐛𝐥𝐞𝐜𝐢𝐝𝐨 𝐄𝐥 𝐋𝐢𝐧𝐤 𝐃𝐞𝐥 𝐆𝐫𝐮𝐩𝐨.*"
+            "texto1": "👋 ¡Bienvenido/a!\n@user",
+            "texto2": "👋 ¡Hasta luego!\n@user",
+            "texto3": "*[ ℹ️ ] @user Fue promovido a administrador.*",
+            "texto4": "*[ ℹ️ ] @user Fue degradado de administrador.*",
+            "texto5": "*[ ℹ️ ] La descripción del grupo ha sido modificada.*",
+            "texto6": "*[ ℹ️ ] El nombre del grupo ha sido modificado.*",
+            "texto7": "*[ ℹ️ ] Se ha cambiado la foto de perfil del grupo.*",
+            "texto8": "*[ ℹ️ ] El enlace de invitación al grupo ha sido restablecido.*"
         },
         "deleteUpdate": {
             "texto1": [
-                "_*🐼🎋 ANTI-DELETE 🎋🐼*_\n",
-                "  *Usuario:*",
-                "  *Hora:*",
-                " *Fecha:*",
-                "*Enviando el mensaje eliminado...*\n",
-                "*[❗] Para desactivar la función* _antidelete_*, envia el siguiente comando:* _/disable antidelete_"
-            
+                "_*< ANTI-DELETE />*_\n",
+                " ▢ *Usuario:*",
+                " ▢ *Hora:*",
+                "▢ *Fecha:*",
+                "▢ *Enviando el mensaje eliminado...*\n",
+                "*[ ℹ️ ] Para desactivar la función* _antidelete_*, envia el siguiente comando:* _/disable antidelete_"
+            ]
         }
     },
     "BK9": {
