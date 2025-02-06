@@ -3849,14 +3849,14 @@
             ]
         },
         "participantsUpdate": {
-            "texto1": "👋 ¡Bienvenido/a!\n@user",
-            "texto2": "👋 ¡Hasta luego!\n@user",
-            "texto3": "*[❗] @user Fue promovido a administrador.*",
-            "texto4": "*[❗] @user Fue degradado de administrador.*",
-            "texto5": "*[❗] La descripción del grupo ha sido modificada.*",
-            "texto6": "*[❗] El nombre del grupo ha sido modificado.*",
-            "texto7": "*[❗] Se ha cambiado la foto de perfil del grupo.*",
-            "texto8": "*[❗] El enlace de invitación al grupo ha sido restablecido.*"
+            "texto1": "𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐱 \n @user \n 𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭",
+            "texto2": "𝐇𝐚𝐬𝐭𝐚 𝐍𝐮𝐧𝐜𝐚!! \n@user \n 𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭",
+            "texto3": "*[❗] @user 𝐒𝐞 𝐒𝐮𝐦𝐚 𝐀𝐥 𝐆𝐫𝐮𝐩𝐨 𝐃𝐞 𝐀𝐝𝐦𝐢𝐧𝐬.*",
+            "texto4": "*[❗] @user 𝐀𝐛𝐚𝐧𝐝𝐨𝐧𝐚 𝐄𝐥 𝐆𝐫𝐮𝐩𝐨 𝐃𝐞 𝐀𝐝𝐦𝐢𝐧𝐬.*",
+            "texto5": "*[❗] 𝐒𝐞 𝐇𝐚 𝐌𝐨𝐝𝐢𝐟𝐢𝐜𝐚𝐝𝐨 𝐋𝐚 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧 𝐃𝐞𝐥 𝐆𝐫𝐮𝐩𝐨.*",
+            "texto6": "*[❗] 𝐒𝐞 𝐇𝐚 𝐌𝐨𝐝𝐢𝐟𝐢𝐜𝐚𝐝𝐨 𝐄𝐥 𝐍𝐨𝐦𝐛𝐫𝐞 𝐃𝐞𝐥 𝐆𝐫𝐮𝐩𝐨.*",
+            "texto7": "*[❗] 𝐒𝐞 𝐇𝐚 𝐌𝐨𝐝𝐢𝐟𝐢𝐜𝐚𝐝𝐨 𝐋𝐚 𝐈𝐦𝐚𝐠𝐞𝐧 𝐃𝐞𝐥 𝐆𝐫𝐮𝐩𝐨.*",
+            "texto8": "*[❗] 𝐒𝐞 𝐇𝐚 𝐑𝐞𝐬𝐭𝐚𝐛𝐥𝐞𝐜𝐢𝐝𝐨 𝐄𝐥 𝐋𝐢𝐧𝐤 𝐃𝐞𝐥 𝐆𝐫𝐮𝐩𝐨.*"
         },
         "deleteUpdate": {
             "texto1": [
