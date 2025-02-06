@@ -83,7 +83,7 @@ const tradutor = _translate.plugins.descargas_play;
             
       await conn.sendMessage(m.chat, { document: { url: responsev2 }, mimetype: 'video/mp4', fileName: `${responsev1.title}.mp4` }, { quoted: m });
         } catch (e) {
-        conn.reply(m.chat, `「 ✰ 」OCURRIO UN FALLO AL PROCESAR SU SOLICITUD\n\n> ${e}`, m);
+        conn.reply(m.chat, `[❗] OCURRIO UN FALLO AL PROCESAR SU SOLICITUD\n\n> ${e}`, m);
         }
     }
 };
