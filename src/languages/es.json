@@ -2349,9 +2349,9 @@
         },
         "gc_tagall": {
             "texto1": [
-                "*𝐌𝐞𝐧𝐬𝐚𝐣𝐞:*",
-                "*𝐀𝐜𝐭𝐢𝐯𝐞𝐧𝐬𝐞 𝐀𝐥𝐯!!*\n\n",
-                "*𝐌𝐞𝐧𝐜𝐢𝐨𝐧𝐞𝐬:*"
+                "*𝙼𝙴𝙽𝚂𝙰𝙹𝙴:*",
+                "*⺀𝙸 𝙽 𝚅 𝙾 𝙲 𝙰 𝙽 𝙳 𝙾 - 𝙶 𝚁 𝚄 𝙿 𝙾⺀*\n\n❏",
+                "❏ *𝙴𝚃𝙸𝚀𝚄𝙴𝚃𝙰𝚂:*"
             ]
         },
         "gc_unwarn": {
@@ -2663,7 +2663,7 @@
                 "𝐃𝐎𝐍𝐀𝐑",
                 "𝙷𝙾𝙻𝙰",
                 " *𝙰𝚀𝚄𝙸 𝙰𝙻𝙶𝚄𝙽𝙾𝚂 𝙳𝙰𝚃𝙾𝚂*",
-                " *𝙿𝙾𝚁 𝚂𝙸 𝙶𝚄𝚂𝚃𝙰𝚂 𝙰𝙿𝙾𝚈𝙰𝚁 :𝟹*",
+                " *𝙿𝙾𝚁 𝚂𝙸 𝙶𝚄𝚂𝚃𝙰𝚂 𝙰𝙿𝙾𝚈𝙰𝚁*",
                 "  *𝙲𝙻𝙰𝚅𝙴:*",
                 " *728969000081862981*",
                 " *𝙱𝙰𝙽𝙲𝙾: STP* ",
@@ -2678,38 +2678,38 @@
         "info_estado": {
             "texto1": [
                 "*🐼🎋 INFO - ESTADO 🎋🐼*_",
-                " *Prop.:*",
-                " *WA:*",
-                " *PayPal:*",
-                " *Ping:*",
-                " *Uptime:*",
-                " *Prefijo:*",
-                " *Modo:* ",
-                " *Usuarios regs.:*",
-                " *Usuarios totales:*",
-                " *Tipo de bot:*",
-                " *Chats privados:*",
-                " *Grupos:*",
-                " *Chats totales:*",
-                " *Autoread:* ",
-                " *Restrict:* ",
-                " *PCOnly:* ",
-                " *GPOnly:*",
-                " *AntiPrivado:*",
-                " *AntiLlamada:*",
-                " *ModeJadiBot:*"
+                "▢ *Prop.:*",
+                "▢ *WA:*",
+                "▢ *PayPal:*",
+                "▢ *Ping:*",
+                "▢ *Uptime:*",
+                "▢ *Prefijo:*",
+                "▢ *Modo:* ",
+                "▢ *Usuarios regs.:*",
+                "▢ *Usuarios totales:*",
+                "▢ *Tipo de bot:*",
+                "▢ *Chats privados:*",
+                "▢ *Grupos:*",
+                "▢ *Chats totales:*",
+                "▢ *Autoread:* ",
+                "▢ *Restrict:* ",
+                "▢ *PCOnly:* ",
+                "▢ *GPOnly:*",
+                "▢ *AntiPrivado:*",
+                "▢ *AntiLlamada:*",
+                "▢ *ModeJadiBot:*"
             ],
             "texto2": "Repositorio - GitHub"
         },
         "info_groupsofc": {
             "texto1": [
-                "*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾, 𝚃𝙴 𝙸𝙽𝚅𝙸𝚃𝙾 𝙰 𝚄𝙽𝙸𝚁𝚃𝙴 𝙰 𝙻𝙾𝚂 𝙶𝚁𝚄𝙿𝙾𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻𝙴𝚂 𝙳𝙴 𝚂𝙷𝙰𝙳𝙾𝚆*",
-                "* 𝙶𝚛𝚞𝚙𝚘𝚜 𝚘𝚏𝚒𝚌𝚒𝚊𝚕𝚎𝚜:*",
-                "*1.-* https://whatsapp.com/channel/0029Vb52QvDCsU9Iw0iIc23l",
-                "*2.-* https://chat.whatsapp.com/LB0R72iDtxsEDuaacQcj4T",
-                "*3.-* https://whatsapp.com/channel/0029Vb52QvDCsU9Iw0iIc23l",
-                "*4.-* https://chat.whatsapp.com/LB0R72iDtxsEDuaacQcj4T",
-                "*5.-* https://whatsapp.com/channel/0029Vb52QvDCsU9Iw0iIc23l"
+                "*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 𝚃𝙴 𝙸𝙽𝚅𝙸𝚃𝙾 𝙰 𝚄𝙽𝙸𝚁𝚃𝙴 𝙰 𝙻𝙾𝚂 𝙶𝚁𝚄𝙿𝙾𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻𝙴𝚂 𝙳𝙴 𝚂𝙷𝙰𝙳𝙾𝚆*",
+                "*➤ 𝙶𝚛𝚞𝚙𝚘𝚜 𝚘𝚏𝚒𝚌𝚒𝚊𝚕𝚎𝚜 𝚍𝚎𝚕 𝙱𝚘𝚝:*",
+                "*1.-* https://chat.whatsapp.com/LjJbmdO0qSDEKgB60qivZj",
+                "*2.-* https://chat.whatsapp.com/DbXBmsydWBE1ZN3EoY0hRs",
+                "*3.-* https://chat.whatsapp.com/BW0P22xx7EGBTdH5IM851F",
+                "*4.-* https://chat.whatsapp.com/CjexkGVr37J6GuSdDVAHzC",
+                "*5.-* https://chat.whatsapp.com/DLrFJUPxEQ2IrOm7sJWJ0k"
             ],
             "texto2": "「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」",
             "texto3": "ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩"
@@ -2815,7 +2815,7 @@
             "texto1": "*𝚃𝚄 𝙴𝚂𝚃𝙰𝚂 𝙷𝙾𝚁𝙽𝚈 🥵🔥*"
         },
         "maker_logos": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] ¿𝙲𝙾𝙼𝙾 𝚄𝚂𝙰𝚁 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾?*\n—◉ _#logo (efecto) (texto)_\n*𝙴𝙹𝙴𝙼𝙿𝙻𝙾:*\n—◉ _#logo 3d-deep-sea-metal Mystic_\n\n*[❗] 𝙲𝚄𝙰𝙽𝙳𝙾 𝙻𝙴𝚂 𝙳𝙸𝙶𝙰 𝚀𝚄𝙴 𝙷𝙰𝙲𝙴 𝙵𝙰𝙻𝚃𝙰 𝚄𝙽 𝚃𝙴𝚇𝚃𝙾 𝙴𝙻 𝚄𝚂𝙾 𝚂𝙴𝚁𝙸𝙰:*\n—◉ _#logo (efecto) (texto1|texto2)_\n*𝙴𝙹𝙴𝙼𝙿𝙻𝙾:*\n—◉ _#logo Wolf-Logo-Galaxy Mystic|Bot_\n\n*<𝑳𝑰𝑺𝑻𝑨 𝑫𝑬 𝑬𝑭𝑬𝑪𝑻𝑶𝑺🎋🐼*\n\n° ඬ⃟📝 #logo ",
+            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] ¿𝙲𝙾𝙼𝙾 𝚄𝚂𝙰𝚁 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾?*\n—◉ _#logo (efecto) (texto)_\n*𝙴𝙹𝙴𝙼𝙿𝙻𝙾:*\n—◉ _#logo 3d-deep-sea-metal Mystic_\n\n*[❗] 𝙲𝚄𝙰𝙽𝙳𝙾 𝙻𝙴𝚂 𝙳𝙸𝙶𝙰 𝚀𝚄𝙴 𝙷𝙰𝙲𝙴 𝙵𝙰𝙻𝚃𝙰 𝚄𝙽 𝚃𝙴𝚇𝚃𝙾 𝙴𝙻 𝚄𝚂𝙾 𝚂𝙴𝚁𝙸𝙰:*\n—◉ _#logo (efecto) (texto1|texto2)_\n*𝙴𝙹𝙴𝙼𝙿𝙻𝙾:*\n—◉ _#logo Wolf-Logo-Galaxy Mystic|Bot_\n\n*🐼🎋𝑳𝑰𝑺𝑻𝑨 𝑫𝑬 𝑬𝑭𝑬𝑪𝑻𝑶𝑺🎋🐼*\n\n° ඬ⃟📝 #logo ",
             "texto2": [
                 "*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝙻 𝙴𝙵𝙴𝙲𝚃𝙾",
                 "𝙽𝙾 𝙴𝚂𝚃𝙰 𝙴𝙽 𝙻𝙰 𝙻𝙸𝚂𝚃𝙰 𝙳𝙴 𝙴𝙵𝙴𝙲𝚃𝙾𝚂*"
@@ -2904,15 +2904,15 @@
         "menu_menu": {
             "texto1": [
                 "𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭",
-                " *Hola,*",
+                "▢ *Hola,*",
                 "_*🐼🎋 TUS ESTADÍSTICAS 🎋🐼*_",
-                " *Nivel:* ",
-                " *Experiencia:* ",
-                " *Rango:* ",
-                " *Diamantes:* ",
-                " *MysticCoins:* ",
-                " *Tokens:* ",
-                " *Premium:* ",
+                "▢ *Nivel:* ",
+                "▢ *Experiencia:* ",
+                "▢ *Rango:* ",
+                "▢ *Diamantes:* ",
+                "▢ *MysticCoins:* ",
+                "▢ *Tokens:* ",
+                "▢ *Premium:* ",
                 " _*🐼🎋 LISTA DE MENUS 🎋🐼*_",
                 "_*🐼🎋 SOBRE EL BOT 🎋🐼*_",
                 "_*🐼🎋 SUB-BOTS 🎋🐼*_",
@@ -2933,9 +2933,9 @@
                 " _*🐼🎋 STICKERS 🎋🐼*_",
                 "_*🐼🎋 PROPIETARIO Y MODS. 🎋🐼*_",
                 "*[❗] Este menu tiene un error interno, por lo cual no fue posible enviarlo.*",
-                "*🐼🎋opcion> <tiempo>*_",
+                "*<opcion> <tiempo>*_",
                 "(sin prefijo)",
-                "*🐼🎋nombre sala>*_"
+                "*<nombre sala>*_"
             ],
             "texto2": "Opciones de idioma 🌎",
             "texto3": "_lenguaje grupal_",
@@ -3832,17 +3832,16 @@
             ]
         },
         "dfail": {
-          "dfail": {
-            "texto1": "*[ ℹ️ ] Este comando solo puede ser utilizado por el propietario del bot.*",
-            "texto2": "*[ ℹ️ ] Este comando solo puede ser utilizado por el propietario del bot.*",
-            "texto3": "*[ ℹ️ ] Este comando solo puede ser utilizado por moderadores y el propietario del bot.*",
-            "texto4": "*[ ℹ️ ] Este comando solo puede ser utilizado por usurios premium y el propietario del bot.*",
-            "texto5": "*[ ℹ️ ] Este comando solo puede ser utilizado en grupos.*",
-            "texto6": "*[ ℹ️ ] Este comando solo puede ser utilizado en el chat privado del bot.*",
-            "texto7": "*[ ℹ️ ] Este comando solo puede ser usado por administradores del grupo.*",
-            "texto8": "*[ ℹ️ ] Para utilizar este comando es necesario que el bot sea administrador del grupo.*",
-            "texto9": "*[ ℹ️ ] Para utilizar este comando debes estar registrado.*\n\n*[ 💡 ] Utiliza el comando:* _/verificar nombre.edad_ *para registrarte.*",
-            "texto10": "*[ ℹ️ ] Este comando fue desactivado por el propietario del bot.*",
+            "texto1": "*[❗] Este comando solo puede ser utilizado por el propietario del bot.*",
+            "texto2": "*[❗] Este comando solo puede ser utilizado por el propietario del bot.*",
+            "texto3": "*[❗] Este comando solo puede ser utilizado por moderadores y el propietario del bot.*",
+            "texto4": "*[❗] Este comando solo puede ser utilizado por usurios premium y el propietario del bot.*",
+            "texto5": "*[❗] Este comando solo puede ser utilizado en grupos.*",
+            "texto6": "*[❗] Este comando solo puede ser utilizado en el chat privado del bot.*",
+            "texto7": "*[❗] Este comando solo puede ser usado por administradores del grupo.*",
+            "texto8": "*[❗] Para utilizar este comando es necesario que el bot sea administrador del grupo.*",
+            "texto9": "*[❗] Para utilizar este comando debes estar registrado.*\n\n*[ 💡 ] Utiliza el comando:* _/verificar nombre.edad_ *para registrarte.*",
+            "texto10": "*[❗] Este comando fue desactivado por el propietario del bot.*",
             "texto11": [
                 "*[ ⚠ ] Advertencia*",
                 "*[ ⚠ ] Advertencia*",
@@ -3852,21 +3851,21 @@
         "participantsUpdate": {
             "texto1": "👋 ¡Bienvenido/a!\n@user",
             "texto2": "👋 ¡Hasta luego!\n@user",
-            "texto3": "*[ ℹ️ ] @user Fue promovido a administrador.*",
-            "texto4": "*[ ℹ️ ] @user Fue degradado de administrador.*",
-            "texto5": "*[ ℹ️ ] La descripción del grupo ha sido modificada.*",
-            "texto6": "*[ ℹ️ ] El nombre del grupo ha sido modificado.*",
-            "texto7": "*[ ℹ️ ] Se ha cambiado la foto de perfil del grupo.*",
-            "texto8": "*[ ℹ️ ] El enlace de invitación al grupo ha sido restablecido.*"
+            "texto3": "*[❗] @user Fue promovido a administrador.*",
+            "texto4": "*[❗] @user Fue degradado de administrador.*",
+            "texto5": "*[❗] La descripción del grupo ha sido modificada.*",
+            "texto6": "*[❗] El nombre del grupo ha sido modificado.*",
+            "texto7": "*[❗] Se ha cambiado la foto de perfil del grupo.*",
+            "texto8": "*[❗] El enlace de invitación al grupo ha sido restablecido.*"
         },
         "deleteUpdate": {
             "texto1": [
-                "_*< ANTI-DELETE />*_\n",
+                "_*🐼🎋 ANTI-DELETE 🎋🐼*_\n",
                 " ▢ *Usuario:*",
                 " ▢ *Hora:*",
                 "▢ *Fecha:*",
                 "▢ *Enviando el mensaje eliminado...*\n",
-                "*[ ℹ️ ] Para desactivar la función* _antidelete_*, envia el siguiente comando:* _/disable antidelete_"
+                "*[❗] Para desactivar la función* _antidelete_*, envia el siguiente comando:* _/disable antidelete_"
             ]
         }
     },
