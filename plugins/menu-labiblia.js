@@ -25,11 +25,16 @@ if (!db.data.chats[m.chat].modohorny && m.isGroup) throw `${tradutor.texto1[0]} 
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *𝐓𝐡𝐞 𝐌𝐲𝐬𝐭𝐢𝐜 - 𝐁𝐨𝐭* —◉
-║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ ${tradutor.texto1[1]} ${taguser}*
-╰═══╡✯✯✯✯✯✯✯✯✯╞═══╯
+    const str = `
+  ╭─────── • ◆ • ───────╮
+  |
+  |  𝐇𝐨𝐥𝐚, ${taguser}
+  |  𝐌𝐢 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 𝐄𝐬: 𝐒𝐡𝐚𝐝𝐨𝐰.𝐕𝐳
+  |  𝐖𝐩: wa.me/+5215541081250
+  |  𝐈𝐠: https://www.instagram.com/shadow.vz?igsh=bTRodW9oZXA1NXNz
+  |  𝐅𝐛: https://www.facebook.com/share/18UKvzKSJQ/
+  |
+  ╰──────────────────────╯
 
 ┏━━━━━━━━━━━━━━━━┓
 ┃ ${tradutor.texto1[2]}
@@ -66,7 +71,7 @@ if (!db.data.chats[m.chat].modohorny && m.isGroup) throw `${tradutor.texto1[0]} 
 ┣ ඬ⃟ 🔞 _${usedPrefix}nsfwglass_
 ┣ ඬ⃟ 🔞 _${usedPrefix}hentaipdf *<texto>*_
 ┣ ඬ⃟ 🔞 _${usedPrefix}hentaisearch *<texto>*_
-┗━━━━━━━━━━━━━━━━┛`.trim();
+┗━━━━━━━━ 🐼🎋 𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭 🎋🐼 ━━━━━━━━┛`.trim();
     if (m.isGroup) {
       await conn.sendMessage(m.chat, {image: pp, caption: str.trim(), mentions: [...str.matchAll(/@([0-9]{5,16}|0)/g)].map((v) => v[1] + '@s.whatsapp.net')}, {quoted: m});
       await conn.sendFile(m.chat, vn, './src/assets/audio/01J673V13NHPW7FA028ZPYC18Q.mp3', null, m, true, {type: 'audioMessage', ptt: true});
