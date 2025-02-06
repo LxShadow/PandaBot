@@ -17,25 +17,7 @@ const handler = async (m, {conn, usedPrefix}) => {
 
   ${tradutor.texto1[3]}
 
-  ${tradutor.texto1[4]}
-
-  ${tradutor.texto1[5]}
-
-  ${tradutor.texto1[6]}
-
-  ${tradutor.texto1[7]}
-
-  ${tradutor.texto1[8]}
-
-  ${tradutor.texto1[9]}
-
-  ${tradutor.texto1[10]}
-
-  ${tradutor.texto1[11]}
-
-  ${tradutor.texto1[12]}
-  
-  ${tradutor.texto1[13]}`.trim();
+  ${tradutor.texto1[4]}`.trim();
   const buttonMessage= {
     'document': {url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`},
     'mimetype': `application/${document}`,
@@ -52,7 +34,7 @@ const handler = async (m, {conn, usedPrefix}) => {
         'title': tradutor.texto2[1],
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA'}},
+        'sourceUrl': 'https://www.instagram.com/shadow.vz?igsh=bTRodW9oZXA1NXNz'}},
     'caption': text,
     'footer': wm,
     // 'buttons':[
