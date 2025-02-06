@@ -3813,12 +3813,11 @@
     "handler": {
         "handler": {
             "texto1": [
-               "_*🐼🎋 USUARIO SUSPENDIDO 🎋🐼*_\n",
+                "_*🐼🎋 USUARIO SUSPENDIDO 🎋🐼*_\n",
                 "▢ *Aviso:*",
                 "\n▢ *Motivo:*",
                 "▢ *Motivo:* Sin especificar",
                 "*[❗] Si consideras que esto es un error y cuentas con pruebas, puedes comunicarte con el propietario(a) del bot para apelar la suspensión.*"
-            ],  "*[❗] Si consideras que esto es un error y cuentas con pruebas, puedes comunicarte con el propietario(a) del bot para apelar la suspensión.*"
             ],
             "texto2": "*[❗] Sus diamantes se han agotado, puede adquirir más con el comando:*",
             "texto3": [
